@@ -1,4 +1,4 @@
 
 *⚠️ Alertas de Lentitud (> 1 min en las últimas 5 ejecuciones):*
 • *Primer ingreso al menú Home*:
-  👉 _2026-07-06 13:32_ ⏱️ *1m 41s*
+  👉 _2026-07-10 13:13_ ⏱️ *1m 40s*
