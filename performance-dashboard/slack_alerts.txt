@@ -1,4 +1,5 @@
 
-*⚠️ Alertas de Lentitud (> 1 min en las últimas 5 ejecuciones):*
-• *Primer ingreso al menú Home*:
-  👉 _2026-07-10 13:13_ ⏱️ *1m 40s*
+*⚡ home:*
+• _Ningún ingreso al Porfolio superó el minuto en cargar._
+*⚡ Mis portfolios:*
+• _Ningún ingreso al Porfolio superó el minuto en cargar._
